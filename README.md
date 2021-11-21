@@ -17,4 +17,5 @@ Bugs I still have to fix:
 - No en passant yet :(
 
 Project start date: 10/18/2021
+
 Version 1 finish date: 11/05/2021
